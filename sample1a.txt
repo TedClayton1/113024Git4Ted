@@ -1,0 +1,5 @@
+Name = Teddy Ted
+class = class 5.5
+desired income = $600k
+desired country = South Africa
+favorite features on a lady : buttocks, toes, nipples, teeth, skin
